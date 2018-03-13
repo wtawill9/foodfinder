@@ -2,7 +2,7 @@ source(key.R)
 
 yelp <- "https://api.yelp.com"
 term <- "restaurants"
-location <- "University of Washington Seattle"
+location <- "University of Washington Seattle, WA"
 longitude <- 47.656397
 latitude <- -122.310410
 categories <- NULL
